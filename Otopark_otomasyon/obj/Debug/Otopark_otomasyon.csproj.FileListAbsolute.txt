@@ -1,0 +1,30 @@
+D:\WORKS\Visual Studıo\Otopark_otomasyon\Otopark_otomasyon\bin\Debug\Otopark_otomasyon.exe.config
+D:\WORKS\Visual Studıo\Otopark_otomasyon\Otopark_otomasyon\bin\Debug\Otopark_otomasyon.exe
+D:\WORKS\Visual Studıo\Otopark_otomasyon\Otopark_otomasyon\bin\Debug\Otopark_otomasyon.pdb
+D:\WORKS\Visual Studıo\Otopark_otomasyon\Otopark_otomasyon\obj\Debug\Otopark_otomasyon.csprojAssemblyReference.cache
+D:\WORKS\Visual Studıo\Otopark_otomasyon\Otopark_otomasyon\obj\Debug\Otopark_otomasyon.Form1.resources
+D:\WORKS\Visual Studıo\Otopark_otomasyon\Otopark_otomasyon\obj\Debug\Otopark_otomasyon.Properties.Resources.resources
+D:\WORKS\Visual Studıo\Otopark_otomasyon\Otopark_otomasyon\obj\Debug\Otopark_otomasyon.csproj.GenerateResource.cache
+D:\WORKS\Visual Studıo\Otopark_otomasyon\Otopark_otomasyon\obj\Debug\Otopark_otomasyon.csproj.CoreCompileInputs.cache
+D:\WORKS\Visual Studıo\Otopark_otomasyon\Otopark_otomasyon\obj\Debug\Otopark_otomasyon.exe
+D:\WORKS\Visual Studıo\Otopark_otomasyon\Otopark_otomasyon\obj\Debug\Otopark_otomasyon.pdb
+D:\WORKS\Visual Studıo\Otopark_otomasyon - Kopya\Otopark_otomasyon\bin\Debug\Otopark_otomasyon.exe.config
+D:\WORKS\Visual Studıo\Otopark_otomasyon - Kopya\Otopark_otomasyon\bin\Debug\Otopark_otomasyon.exe
+D:\WORKS\Visual Studıo\Otopark_otomasyon - Kopya\Otopark_otomasyon\bin\Debug\Otopark_otomasyon.pdb
+D:\WORKS\Visual Studıo\Otopark_otomasyon - Kopya\Otopark_otomasyon\obj\Debug\Otopark_otomasyon.csprojAssemblyReference.cache
+D:\WORKS\Visual Studıo\Otopark_otomasyon - Kopya\Otopark_otomasyon\obj\Debug\Otopark_otomasyon.Form1.resources
+D:\WORKS\Visual Studıo\Otopark_otomasyon - Kopya\Otopark_otomasyon\obj\Debug\Otopark_otomasyon.Properties.Resources.resources
+D:\WORKS\Visual Studıo\Otopark_otomasyon - Kopya\Otopark_otomasyon\obj\Debug\Otopark_otomasyon.csproj.GenerateResource.cache
+D:\WORKS\Visual Studıo\Otopark_otomasyon - Kopya\Otopark_otomasyon\obj\Debug\Otopark_otomasyon.csproj.CoreCompileInputs.cache
+D:\WORKS\Visual Studıo\Otopark_otomasyon - Kopya\Otopark_otomasyon\obj\Debug\Otopark_otomasyon.exe
+D:\WORKS\Visual Studıo\Otopark_otomasyon - Kopya\Otopark_otomasyon\obj\Debug\Otopark_otomasyon.pdb
+C:\Users\user\Desktop\Otopark_otomasyon - Kopya\Otopark_otomasyon\bin\Debug\Otopark_otomasyon.exe.config
+C:\Users\user\Desktop\Otopark_otomasyon - Kopya\Otopark_otomasyon\bin\Debug\Otopark_otomasyon.exe
+C:\Users\user\Desktop\Otopark_otomasyon - Kopya\Otopark_otomasyon\bin\Debug\Otopark_otomasyon.pdb
+C:\Users\user\Desktop\Otopark_otomasyon - Kopya\Otopark_otomasyon\obj\Debug\Otopark_otomasyon.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Otopark_otomasyon - Kopya\Otopark_otomasyon\obj\Debug\Otopark_otomasyon.Form1.resources
+C:\Users\user\Desktop\Otopark_otomasyon - Kopya\Otopark_otomasyon\obj\Debug\Otopark_otomasyon.Properties.Resources.resources
+C:\Users\user\Desktop\Otopark_otomasyon - Kopya\Otopark_otomasyon\obj\Debug\Otopark_otomasyon.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Otopark_otomasyon - Kopya\Otopark_otomasyon\obj\Debug\Otopark_otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Otopark_otomasyon - Kopya\Otopark_otomasyon\obj\Debug\Otopark_otomasyon.exe
+C:\Users\user\Desktop\Otopark_otomasyon - Kopya\Otopark_otomasyon\obj\Debug\Otopark_otomasyon.pdb
