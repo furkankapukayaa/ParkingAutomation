@@ -1,4 +1,4 @@
-# Otopark Otomasyonu (SQL)
-**Uygulama C# ve Microsoft SQL Server ile yapılmıştır.** <br>
-<a href="https://github.com/furkankapukayaa/Otopark-Otomasyonu/blob/main/dbOtopark.sql">**Veri tabanı için tıklayınız.**</a> <br>
-<a href="https://www.youtube.com/watch?v=WixgLAOrQrE">**Uygulama Youtube videosu için tıklayınız.**</a>
+# Parking Automation (SQL)
+**The application is made with C# and Microsoft SQL Server.** <br>
+<a href="https://github.com/furkankapukayaa/ParkingAutomation/blob/main/dbOtopark.sql">**Click for database.**</a> <br>
+<a href="https://www.youtube.com/watch?v=WixgLAOrQrE">**Click here for the application Youtube video.**</a>
